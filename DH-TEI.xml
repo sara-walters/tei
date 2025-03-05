@@ -1,2 +1,31 @@
 <TEI>
+    <teiHeader>
+        <respStmt>
+            <encoder>
+                <persName>Sara Walters</persName>
+            </encoder>
+        </respStmt>
+    </teiHeader>
+<text>
+    <front></front>
+    <body>
+        <p>
+            ALLEGORIA
+        </p>
+        <p>
+            PER lo mezzo del camino,
+            s'intende la meta della vi-
+            ta nostra. Per la felua ofcu-
+            ra il vitio nel quall'huomo vi-
+            gorofamente preuale in quel-
+            l'età. Per gli animali, itre vi-
+            eij capitali, cioe, l'auritia,
+            la superbia, &amp; la luffuria, i
+            quali non lafciano, che noi
+            poffiamo falire il monte del-
+            la virtu, ch'e
+        </p>
+    </body>
+    <end></end>
+</text>
 </TEI>
