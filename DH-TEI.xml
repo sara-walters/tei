@@ -9,7 +9,7 @@
 <text xml:lang="it">
     <front></front>
     <body>
-        <div type="canto">
+        <div type="canto" n="1">
             <head>
             DELLA 
             COMEDIA DI DANTE 
@@ -21,42 +21,42 @@
             ALLEGORIA
             </p>
             <p>
-                PER lo mezzo del camino,
-                s'intende la metà della vi-
-                ta nostra. Per la selua oscu-
-                ra il vitio, nel quall'huomo vi-
-                gorosamente preuale in quel-
-                l'età. Per gli animali, itre vi-
-                eij capitali, cioè, l'auritia,
-                la superbia, &amp; la luffuria, i
-                quali non lasciano, che noi
-                possiamo falire il monte del-
-                la virtu, ch'è difficile &amp; aspro.
-                Per Virgilio mandato de Lu-
-                cia, si comprende la dottri-
-                na dataci da Dio, accioche
-                col suo mezzo conosciamo, 
-                &amp; n'astegnamo da'vitij &amp;
-                che con la sua guida c'indi-
-                rizziamo a buona via, secon-
-                do che possono le forze no-
-                fire. 
+                <l>PER lo mezzo del camino,</l>
+                <l>s'intende la metà della vi-</l>
+                <l>ta nostra. Per la selua oscu-</l>
+                <l>ra il vitio, nel quall'huomo vi-</l>
+                <l>gorosamente preuale in quel-</l>
+                <l>l'età. Per gli animali, itre vi-</l>
+                <l>eij capitali, cioè, l'auritia,</l>
+                <l>la superbia, &amp; la lussuria, i</l>
+                <l>quali non lasciano, che noi</l>
+                <l>possiamo falire il monte del-</l>
+                <l>la virtu, ch'è difficile &amp; aspro.</l>
+                <l>Per Virgilio mandato de Lu-</l>
+                <l>cia, si comprende la dottri-</l>
+                <l>na dataci da Dio, accioche</l>
+                <l>col suo mezzo conosciamo,</l>
+                <l>&amp; n'astegnamo da'vitij &amp;</l>
+                <l>che con la sua guida c'indi-</l>
+                <l>rizziamo a buona via, secon-</l>
+                <l>do che possono le forze no-</l>
+                <l>fire.</l> 
             </p>
             <p>
-                HABBIAMO
-                narrato, non
-                solamente la vi-
-                ta del Poeta &amp; il titolo del libro, &amp; che cosa
-                sia Poeta: ma quanto sia antica, nobile &amp; 
-                varia: quanto vile coral dottrina, quanto es-
-                sicace a mouere l'humana mente: &amp; quanto diletti ogni libera-
-                le ingegno. Ne giudichiamo da tacere quanto in si diuna di-
-                seiplina sia stata la eccellentia dell'ingengo de nostro Poeta.
-                In che s'io sono slato breue: consideri chi legge che la infinita
-                copia delle cose delle qualiè necessario trattare, mi sforza, non
-                volendo ch'il volume cresca, a inuiluppare piu tosto che disten
-                dere molte cose: &amp; massime quelle, che quando ben taces-
-                si, non pero ne restera oscura la espositione del testo.
+                <l>HABBIAMO</l>
+                <l>narrato, non</l>
+                <l>solamente la vi-</l>
+                <l>ta del Poeta &amp; il titolo del libro, &amp; che cosa</l>
+                <l>sia Poeta: ma quanto sia antica, nobile &amp;</l> 
+                <l>varia: quanto vile coral dottrina, quanto es-</l>
+                <l>sicace a mouere l'humana mente: &amp; quanto diletti ogni libera-</l>
+                <l>le ingegno. Ne giudichiamo da tacere quanto in si diuna di-</l>
+                <l>seiplina sia stata la eccellentia dell'ingengo de nostro Poeta.</l>
+                <l>In che s'io sono slato breue: consideri chi legge che la infinita</l>
+                <l>copia delle cose delle qualiè necessario trattare, mi sforza, non</l>
+                <l>volendo ch'il volume cresca, a inuiluppare piu tosto che disten</l>
+                <l>dere molte cose: &amp; massime quelle, che quando ben taces-</l>
+                <l>si, non pero ne restera oscura la espositione del testo.</l>
             </p>
         </div>
     </body>
