@@ -6,7 +6,7 @@
             </encoder>
         </respStmt>
     </teiHeader>
-<text>
+<text xml:lang="it">
     <front></front>
     <body>
         <div type="canto">
@@ -43,20 +43,20 @@
                 fire. 
             </p>
             <p>
-            HABBIAMO
-            narrato, non
-            solamente la vi-
-            ta del Poeta &amp; il titolo del libro, &amp; che cosa
-            sia Poeta: ma quanto sia antica, nobile &amp; 
-            varia: quanto vile coral dottrina, quanto es-
-            sicace a mouere l'humana mente: &amp; quanto diletti ogni libera-
-            le ingegno. Ne giudichiamo da tacere quanto in si diuna di-
-            seiplina sia stata la eccellentia dell'ingengo de nostro Poeta.
-            In che s'io sono slato breue: consideri chi legge che la infinita
-            copia delle cose delle qualiè necessario trattare, mi sforza, non
-            volendo ch'il volume cresca, a inuiluppare piu tosto che disten
-            dere molte cose: &amp; massime quelle, che quando ben taces-
-            si, non pero ne restera oscura la espositione del testo.
+                HABBIAMO
+                narrato, non
+                solamente la vi-
+                ta del Poeta &amp; il titolo del libro, &amp; che cosa
+                sia Poeta: ma quanto sia antica, nobile &amp; 
+                varia: quanto vile coral dottrina, quanto es-
+                sicace a mouere l'humana mente: &amp; quanto diletti ogni libera-
+                le ingegno. Ne giudichiamo da tacere quanto in si diuna di-
+                seiplina sia stata la eccellentia dell'ingengo de nostro Poeta.
+                In che s'io sono slato breue: consideri chi legge che la infinita
+                copia delle cose delle qualiè necessario trattare, mi sforza, non
+                volendo ch'il volume cresca, a inuiluppare piu tosto che disten
+                dere molte cose: &amp; massime quelle, che quando ben taces-
+                si, non pero ne restera oscura la espositione del testo.
             </p>
         </div>
     </body>
